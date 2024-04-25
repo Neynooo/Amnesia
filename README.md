@@ -48,10 +48,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Neynooo/nenyoo-modd-menu)
+1. [Download source code zip](https://github.com/Neynooo/Amnesia)
 2. Extract zip
-3. Run `Nenyoo v1.0.3028.0.8.exe`
-4. install the modd menu by clicking the ` fresh install `
+3. Run `Amnesialauncher.exe`
+4. install the modd menu by clicking the ` install `
 5.run the `gta 5 game`
 6. Run the builder by double clicking the `inject` buttom
 7. enjoy the modd menu
